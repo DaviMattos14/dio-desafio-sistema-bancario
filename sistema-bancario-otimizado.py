@@ -3,9 +3,9 @@ def menu():
     [0] Extrato
     [1] Depósito
     [2] Saque
-    [3] Nova conta
+    [3] Criar conta
     [4] Listar contas
-    [5] Novo usuário
+    [5] Cadastrar Cliente
     [6] Sair
 
 -- '''
